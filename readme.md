@@ -46,6 +46,6 @@ $ docker-compose down -v
 ```
 
 ### Snapshot
-acess `http://localhost:3014`
+access `http://localhost:3014`
 
 ![](https://user-images.githubusercontent.com/13595509/39465213-b35c6518-4d54-11e8-9f99-ebe4f8dd82e5.png)
